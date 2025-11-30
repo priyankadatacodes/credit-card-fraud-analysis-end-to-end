@@ -1,6 +1,5 @@
 # **Credit Card Fraud Analysis End-to-End**
 
-**Author:** Priyanka  
 **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, SMOTE, XGBoost, Joblib  
 **Dataset:** Kaggle Credit Card Fraud Dataset  
 
@@ -252,3 +251,4 @@ This project demonstrates capability in:
 
 It reflects how fraud analytics workflows operate in banking and fintech environments.
 
+**Author:** Priyanka Lakra
