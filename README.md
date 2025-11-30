@@ -3,6 +3,7 @@
 **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn, SMOTE, XGBoost, Joblib  
 **Dataset:** Kaggle Credit Card Fraud Dataset  
 **Workflow**
+
 <img src="https://github.com/priyankadatacodes/credit-card-fraud-analysis-end-to-end/blob/main/credit_card_fraud_banner.png"width="100%">
 
 ---
