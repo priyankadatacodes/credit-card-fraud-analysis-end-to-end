@@ -1,0 +1,2 @@
+precision_opt,recall_opt,f1_opt,roc_auc,total_transactions,fraud_transactions,estimated_fraud_loss_in_test_set
+0.9175257731958762,0.7542372881355932,0.827906976744186,0.9816785486734645,70932,118,11958.630000000001

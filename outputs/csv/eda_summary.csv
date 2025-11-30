@@ -1,0 +1,4 @@
+metric,value
+total_transactions,283726.0
+fraud_transactions,473.0
+fraud_ratio,0.001667101358352777
